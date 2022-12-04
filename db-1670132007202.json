@@ -1,0 +1,36 @@
+{
+  "employe": [
+    {
+      "name": "mark",
+      "email": "sd@asd.com",
+      "phone": "123123213",
+      "userName": "mark1",
+      "password": "12345",
+      "id": 2
+    },
+    {
+      "name": "apple",
+      "email": "a@gmail.com",
+      "phone": "848778",
+      "userName": "shark",
+      "password": "12345",
+      "id": 3
+    },
+    {
+      "name": "powder",
+      "email": "poweder@gmail.com",
+      "phone": "91232545445",
+      "userName": "dark",
+      "password": "12345",
+      "id": 4
+    },
+    {
+      "name": "raja",
+      "email": "raja@123",
+      "phone": "4879565656",
+      "userName": "henry",
+      "password": "12345",
+      "id": 5
+    }
+  ]
+}
